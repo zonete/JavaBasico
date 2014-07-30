@@ -52,7 +52,7 @@ public class Principal {
 		int x = 2;
 		int y = 2;
 		double w = y / x;		 
-		System.out.println(Teste.Nome);
+//		System.out.println(Teste.Nome);
 		
 		System.out.println("valor W => " + w);
 		System.out.println("Saldo:"+conta.getSaldo());
